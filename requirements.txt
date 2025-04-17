@@ -1,0 +1,14 @@
+crewai
+streamlit>=1.29.0
+unstructured
+pyowm>=3.3.0
+langchain
+langchain-community
+langchain-core
+langchain-groq
+tools>=0.1.9
+requests>=2.31.0
+fastapi
+uvicorn>=0.27.0
+pydantic>=2.10
+python-dotenv
